@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Autography';
+    src: url('Autography.eot');
+    src: url('Autography.eot?#iefix') format('embedded-opentype'),
+        url('Autography.woff2') format('woff2'),
+        url('Autography.woff') format('woff'),
+        url('Autography.ttf') format('truetype'),
+        url('Autography.svg#Autography') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
